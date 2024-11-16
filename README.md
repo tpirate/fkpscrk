@@ -1,4 +1,4 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)[![Size](https://img.shields.io/github/languages/code-size/tpirate/fkpscrk)](https://github.com/tpirate/fkpscrk/)
 
 # FKPSCRK - fiko's pass cracker
 
